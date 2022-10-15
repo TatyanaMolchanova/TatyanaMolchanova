@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TatyanaMolchanova
+- 👋 Hi, I’m @TatyanaMolchanova, I'm working as Front-End developer for 3.5 years since April 2019. I love and adore Angular and JavaScript, programming and sites :)
 - 👀 I’m interested in Angular Framework and dream to learn Node.js and to become fullstack JS Developer
 - 🌱 I’m currently learning Algorithms and Data Structures
 - 💞️ I’m looking to collaborate on with Angular team. I dream to work in Google in Angular team.
