@@ -7,4 +7,4 @@
 TatyanaMolchanova/TatyanaMolchanova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Just be Happy and continue be Awesome any way! Be positive and believe and notice good even in the worst time ever (Ukraine is on fire in the cruel war, so...)
+Just be Happy and continue be Awesome any way! Be positive and believe and notice good even in the worst time ever (Ukraine is on fire in the cruel war, so... Ukraine and Ukrainians will win any way!)
